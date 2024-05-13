@@ -5,7 +5,7 @@ String heart =
     'https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvam9iNjc5LTEwMy1wLWwxNjd4ZGdvLnBuZw.png';
 String liver =
     'https://w7.pngwing.com/pngs/78/950/png-transparent-liver-liver-organ-human-liver-thumbnail.png';
-String travma =
+String trava =
     'https://w7.pngwing.com/pngs/96/387/png-transparent-orthopedic-surgery-medicine-general-surgery-plastic-surgery-orthopedic-text-hand-orange.png';
 String drug = 'https://cdn-icons-png.flaticon.com/512/2841/2841593.png';
 List allphoto = [heart, liver, travma];
